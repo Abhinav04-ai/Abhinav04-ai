@@ -56,8 +56,6 @@ I am particularly interested in system internals, secure coding practices, and b
 ---
 
 ### 🏆 Achievements
-- NDA written examination cleared **twice**
-- TES (Technical Entry Scheme) cleared **once**
 - Promoted to **Corporal** for leadership and performance
 - Active participant in oratory competitions and ideathons
 
